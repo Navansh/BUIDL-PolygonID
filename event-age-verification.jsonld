@@ -1,0 +1,25 @@
+{
+    "@context": [
+      {
+        "@version": 1.1,
+        "@protected": true,
+        "id": "@id",
+        "type": "@type",
+        "EventEntryAgeVerification": {
+          "@id": "context file",
+          "@context": {
+            "@version": 1.1,
+            "@protected": true,
+            "id": "@id",
+            "type": "@type",
+            "vocab": "vocab file",
+            "xsd": "http://www.w3.org/2001/XMLSchema#",
+            "dateOfBirth": {
+              "@id": "vocab:collegeID",
+              "@type": "xsd:integer"
+            }
+          }
+        }
+      }
+    ]
+  }
