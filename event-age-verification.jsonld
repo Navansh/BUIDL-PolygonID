@@ -6,13 +6,13 @@
         "id": "@id",
         "type": "@type",
         "EventEntryAgeVerification": {
-          "@id": "context file",
+          "@id": "https://raw.githubusercontent.com/Navansh/BUIDL-PolygonID/main/event-age-verification.jsonld#EventEntryAgeVerification",
           "@context": {
             "@version": 1.1,
             "@protected": true,
             "id": "@id",
             "type": "@type",
-            "vocab": "vocab file",
+            "vocab": "https://github.com/Navansh/BUIDL-PolygonID/blob/main/event-age-verification.md#",
             "xsd": "http://www.w3.org/2001/XMLSchema#",
             "dateOfBirth": {
               "@id": "vocab:collegeID",
