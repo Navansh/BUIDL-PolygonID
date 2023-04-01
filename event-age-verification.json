@@ -3,8 +3,8 @@
     "type": "object",
     "$metadata": {
       "uris": {
-        "jsonLdContext": "context",
-        "jsonSchema": "schema"
+        "jsonLdContext": "https://raw.githubusercontent.com/Navansh/BUIDL-PolygonID/main/event-age-verification.jsonld",
+        "jsonSchema": "https://raw.githubusercontent.com/Navansh/BUIDL-PolygonID/main/event-age-verification.json"
       }
     },
     "required": [
